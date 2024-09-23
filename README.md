@@ -1,6 +1,6 @@
 包含8个实验的笔记，答案和源代码。
 
-- *Data Lab*
+- *Data Lab* [data_lab_note](./csapp_note/1,data_lab.md)
 
 - 对应第二章 信息的表示和处理
 
@@ -18,7 +18,7 @@
 
   > Students implement simple logical, two's complement, and floating point functions, but using a highly restricted subset of C. For example, they might be asked to compute the absolute value of a number using only bit-level operations and straightline code. This lab helps students understand the bit-level representations of C data types and the bit-level behavior of the operations on data.
 
-- *Bomb Lab*
+- *Bomb Lab*  [bomb_lab_note](./csapp_note/2,bomb_lab.md)
 
   对应第三章
 
@@ -34,7 +34,7 @@
   >
   > Here's a [Linux/x86-64 binary bomb](http://csapp.cs.cmu.edu/3e/bomb.tar) that you can try out for yourself. The feature that notifies the grading server has been disabled, so feel free to explode this bomb with impunity. If you're an instructor with a CS:APP account, then you can download the [solution](http://csapp.cs.cmu.edu/im/bomb-solution.txt).
 
-- *Attack Lab*
+- *Attack Lab  [attack_lab_note](./csapp_note/3,attack_lab(target).md)*
 
   对应第三章后面
 
@@ -48,7 +48,7 @@
   >
   > If you're a self-study student, here are a pair of [Ubuntu 12.4 targets](http://csapp.cs.cmu.edu/3e/target1.tar) that you can try out for yourself. You'll need to run your targets using the **"-q"** option so that they don't try to contact a non-existent grading server. If you're an instructor with a CS:APP acount, you can download the solutions [here](https://csapp.cs.cmu.edu/im/labs/target1-sol.tar).
 
-- *Architecture Lab*
+- *Architecture Lab* [arch_lab_note](./csapp_note/4,arch_lab.md)
 
   对应第四章
 
@@ -64,7 +64,7 @@
   >
   > Note: The lab materials include the master source distribution of the Y86-64 processor simulators and the *Y86-64 Guide to Simulators*.
 
-- *Cache Lab*
+- *Cache Lab*  [cache_lab_note](./csapp_note/5,cache_lab.md)
 
   对应第六章
 
@@ -82,7 +82,7 @@
 
   > Students optimize the performance of an application kernel function such as convolution or matrix transposition. This lab provides a clear demonstration of the properties of cache memories and gives them experience with low-level program optimization.
 
-- *Shell Lab*
+- *Shell Lab*   [shell_lab_note](./csapp_note/6,shell_lab.md)
 
   对应第八章
 
@@ -100,7 +100,7 @@
 
   > Students implement their own simple Unix shell program with job control, including the ctrl-c and ctrl-z keystrokes, fg, bg, and jobs commands. This is the students' first introduction to application level concurrency, and gives them a clear idea of Unix process control, signals, and signal handling.
 
-- *Malloc Lab*
+- *Malloc Lab*  [malloc_lab_note](./csapp_note/7,malloc_lab.md)
 
   对应第九章
 
@@ -122,7 +122,7 @@
 
   Students implement their own versions of malloc, free, and realloc. This lab gives students a clear understanding of data layout and organization, and requires them to evaluate different trade-offs between space and time efficiency. One of our favorite labs. When students finish this one, they really understand pointers!
 
-- *Proxy Lab*
+- *Proxy Lab*  [proxy_lab_note](./csapp_note/8,proxy_lab.md)
 
   对应第10、11、12章
 

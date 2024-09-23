@@ -1,4 +1,4 @@
-包含九个实验的笔记
+包含八个实验的笔记
 
 - *Data Lab*
 
@@ -126,6 +126,6 @@
 
   对应第10、11、12章
 
-  
+   实现一个支持并发和缓存的cache，用到了线程编程、生产者消费者模型、读者写者模型、LRU。
 
   > Students implement a concurrent caching Web proxy that sits between their browser and the rest of the World Wide Web. This lab exposes students to the interesting world of network programming, and ties together many of the concepts from the course, such as byte ordering, caching, process control, signals, signal handling, file I/O, concurrency, and synchronization.
